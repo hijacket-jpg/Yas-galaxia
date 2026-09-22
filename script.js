@@ -1,10 +1,10 @@
 
 const basePhrases = [
     "te quiero", 
-    "linda", 
+    "lindota", 
     "hermosa", 
-    "gracias por existir", 
-    "me hace muy feliz pasar tiempo contigo", 
+    "guapota", 
+    "enfemera potona", 
     "la más pro", 
     "te kero", 
     "insana", 
